@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Pritthish Sarkar</h1>
-<h3 align="center"> A final-year student at Delhi Technological University. Currently immersed in the world of technology, I have experience of buidling projects on MERN (MongoDB, Express.js, React.js, Node.js) stack, NextJs, Sql , Firebase and DSA in C++.</h3>
+<h3 align="center"> Recent graduate from Delhi Technological University. Currently immersed in the world of technology, I have internship experience in backend, frontend and fullstach. Have buidling projects on MERN (MongoDB, Express.js, React.js, Node.js) stack, Nest.js Next.js,Sql ,Postgres, Fast API Firebase. Learing DSA & CP in C++.</h3>
 
 - 📫 How to reach me **pritthishps20@gmail.com**
 - 🔭 I’m currently **Open to Work**
